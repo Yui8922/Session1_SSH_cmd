@@ -1,3 +1,9 @@
-from django.shortcuts import render
+def get_xcsrf():
+    pass
+        
 
-# Create your views here.
+def auth():
+    pass
+
+def users():
+    pass

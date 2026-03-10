@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'daphne',
     'django.contrib.staticfiles',
     'mirro_api',
-    'mirro_app'
+    'mirro_app',
     'channels',
 ]
 
